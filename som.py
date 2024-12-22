@@ -1,0 +1,2 @@
+def som(l):
+    pass
